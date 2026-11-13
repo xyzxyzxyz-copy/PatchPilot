@@ -1,8 +1,3 @@
-# 来源：公众号@小林coding
-# 后端八股网站：xiaolincoding.com
-# Agent网站：xiaolinnote.com
-# 简历模版：jianli.xiaolinnote.com
-
 
 from patchpilot.agents.parser import AgentDef, AgentParseError, parse_agent_file
 from patchpilot.agents.loader import AgentLoader
